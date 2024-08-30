@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-perfect {
+    height: 25rem;
+    width: 400;
+}
